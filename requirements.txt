@@ -1,2 +1,5 @@
 configparser~=5.0.2
 requests~=2.26.0
+opencv-python~=4.5.3.56
+numpy~=1.19.5
+pillow~=8.3.2
